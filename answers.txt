@@ -5,7 +5,7 @@ Task 1:
 Hello from Github!
 
 // Under this line, describe what the command 'git fetch' does
-
+The 'git fetch' command fetches new information from the remote server.
 
 Task 2:
 
