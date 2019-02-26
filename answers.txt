@@ -10,7 +10,7 @@ The 'git fetch' command fetches new information from the remote server.
 Task 2:
 
 // Under this line describe why we need to run 'git push' after making a commit
-
+We run 'git push' to push the changes we made on the local repository to the remote server.This is because the local repository and remote server are not synced automatically.
 Task 3:
 
 // Under this line, write a message to yourself from the branch 'branch-A'
