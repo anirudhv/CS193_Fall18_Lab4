@@ -14,6 +14,7 @@ We run 'git push' to push the changes we made on the local repository to the rem
 Task 3:
 
 // Under this line, write a message to yourself from the branch 'branch-A'
+Hello from branch-A!
 
 // Under this line, write a message to yourself from the branch 'branch-B'
 
